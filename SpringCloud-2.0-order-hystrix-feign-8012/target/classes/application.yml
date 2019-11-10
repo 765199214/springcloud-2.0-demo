@@ -1,0 +1,26 @@
+###服务启动端口号
+server:
+  port: 8012
+##feign中使用断路器，默认是没有开启的，需要在配置文件中开启
+feign:
+  hystrix:
+    enabled: true
+###服务名称(服务注册到eureka名称)  
+spring:
+    application:
+        name: app-bunana-order-hystrix-Feign
+        
+
+###服务注册到eureka地址
+eureka:
+  client:
+    service-url:
+           defaultZone: http://localhost:10000/eureka
+
+           
+###因为该应用是各项服务，需要将自己上报注册至eureka中
+    register-with-eureka: true
+###需要检索服务
+    fetch-registry: true
+    #表示eureka client间隔多久去拉取服务注册信息，默认30秒(服务每30秒拉取信息保存本地jvm)
+    registry-fetch-interval-seconds: 30

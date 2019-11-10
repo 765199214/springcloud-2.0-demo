@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;SpringCloud-2.0-Config-8888&apos; to &apos;SpringCloud-2.0-Config-Service-8888&apos;&#x0D;&#x0A;- Original element: &apos;SpringCloud-2.0-Config-8888&apos;&#x0D;&#x0A;- Renamed element: &apos;SpringCloud-2.0-Config-8888&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename Java project &apos;SpringCloud-2.0-Config-8888&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=SpringCloud-2.0-Config-8888" name="SpringCloud-2.0-Config-Service-8888" references="true" stamp="1568713824214" version="1.0"/>
+</session>

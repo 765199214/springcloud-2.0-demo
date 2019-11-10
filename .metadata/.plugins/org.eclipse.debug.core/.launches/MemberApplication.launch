@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/springcloud-2.0-member/src/main/java/cn/linkpower/MemberApplication.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="cn.linkpower.MemberApplication"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="springcloud-2.0-member"/>
+</launchConfiguration>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;application.yml&apos; to &apos;SpringCloud-2.0-order-hystrix-feign-8012/src/main/resources&apos;&#x0D;&#x0A;- Original project: &apos;SpringCloud-2.0-order-Feign-8005&apos;&#x0D;&#x0A;- Destination element: &apos;SpringCloud-2.0-order-hystrix-feign-8012/src/main/resources&apos;&#x0D;&#x0A;- Original element: &apos;application.yml&apos;" description="Copy file" destination="=SpringCloud-2.0-order-hystrix-feign-8012/src\/main\/resources" element1="src/main/resources/application.yml" files="1" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1567568840113" units="0" version="1.0"/>
+</session>

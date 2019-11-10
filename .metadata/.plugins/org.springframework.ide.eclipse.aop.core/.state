@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringCloud-2.0-Config-client-actuator-8882"/>
+<aop-project name="springcloud-2.0-member-8000"/>
+<aop-project name="SpringCloud-2.0-service-zuul-80"/>
+<aop-project name="springcloud-2.0-order-8001"/>
+<aop-project name="SpringCloud-2.0-Config-Service-8888"/>
+<aop-project name="SpringCloud-2.0-eureka-service-10000"/>
+<aop-project name="SpringCloud-2.0-Config-client-8881"/>
+<aop-project name="SpringCloud-2.0-order-Feign-8005"/>
+<aop-project name="SpringCloud-2.0-order-hystrix-feign-8012"/>
+</aop-reference-model>
